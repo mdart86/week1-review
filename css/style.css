@@ -1,0 +1,22 @@
+h1 {
+    font-size: 72px;
+    color: blue;
+}
+
+header {
+    background-color: lim;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    color: #00535e;
+}
+
+.main-content {
+    border: dashed 8px rgb(107, 217, 221);
+    margin: 10px;
+    padding: 10px;
+}
